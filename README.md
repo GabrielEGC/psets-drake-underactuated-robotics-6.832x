@@ -14,10 +14,12 @@ PSET2: - Value Iteration
 PSET3: - Acrobot Feedback Control
 
 PSET4: - Acrobot Region of Attraction
+
        - Barrier Functions
        
        
 PSET5: - Trajectory Optimization: Direct Collocation
+
        - TV - LQR for robust trajectories
        
        
@@ -26,9 +28,12 @@ PSET6: - Poincaré Analysis for Open and Closed Loop control.
 PSET7: - ZMP control
 
 PSET8: - Force Closure Restrictions
+
        - RRT
+
        - RRT with Dynamic Constraints.
        
        
 PSET9: - MPC as QP
+
        - Differential flatness as QP 
