@@ -2,7 +2,7 @@
 
 Some homeworks of course Underactuated Robotics 6.832x from edX solved here with code, mainly the ones that involve drake-distro library for MATLAB
 
-So I'm using for this the precompiled versions of drake found at https://github.com/RobotLocomotion/drake/releases. This is because I started solving the problems in 2015 - 2016, preparing myself for the next enrolling, that unfortunately never came. So now, I've dusted off the old files and complete the homeworks I was missing in the same precompiled version of drake. Although the solutions are currently on edX, i've done some modificacions, solving the problems in my way.
+So I'm using for this the precompiled versions of drake found at https://github.com/RobotLocomotion/drake/releases. This is because I started solving the problems in 2015 - 2016, preparing myself for the next enrolling, that unfortunately never came. So now, I've dusted off the old files and complete the homeworks I was missing in the same precompiled version of drake. The statements of the psets are found at https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0. Although the solutions are currently on edX, i've done some modificacions, solving the problems in my way.
 
 
 Content is as follows:
