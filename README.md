@@ -33,6 +33,7 @@ PSET8: - Force Closure Restrictions
 PSET9: - MPC as QP
        - Differential flatness as QP 
 
+You can find where to put each file in PSETs_6.832x.pdf (some of them require other files, like .urdf or other .m files)
 
 This course deeply inspired me to develop a great conection between me and control and robotics. Some topics I were fascinated was for example, Region of Atraccion (PSET4).
 
